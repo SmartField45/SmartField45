@@ -10,16 +10,17 @@
 ---
 
 ### 🧭 About Me  
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript**  
+- 🌱 I’m currently learning **HTML, CSS, and JavaScript**
+- 🎮 Learning and Exploring **Godot Engine**
 - 🧰 Exploring **Front-End Development** and **UI/UX Design**  
-- 🎯 Goal: Build interactive and responsive websites  
+- 🎯 Goal: Build interactive and responsive websites, Making Second Game
 - ⚡ Fun fact: I love clean code & dark themes 🖤  
 - ♟️ Hobby : I love Chess, and Writing
 ---
 
 ### 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,godot,c" />
 </p>
 
 ---
