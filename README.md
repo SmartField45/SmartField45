@@ -1,20 +1,20 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm SmartField45</h1>
-<h3 align="center">💻 Passionate Front-End Learner | ☁️ Exploring Web Development</h3>
+<h3 align="center">💻 Game Developer | ☁️ Exploring Game Development</h3>
 
 <!-- Banner (optional) -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChessSet.jpg/500px-ChessSet.jpg" alt="Chess"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Chess_pieces_close_up.jpg/1280px-Chess_pieces_close_up.jpg" alt="Chess"/>
 </p>
 
 ---
 
 ### 🧭 About Me  
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript**
+- 🌱 I’m currently learning **Python, C# and JavaScript**
 - 🎮 Learning and Exploring **Godot Engine**
-- 🧰 Exploring **Front-End Development** and **UI/UX Design**  
-- 🎯 Goal: Build interactive and responsive websites, Making Second Game
-- ⚡ Fun fact: I love clean code & dark themes 🖤  
+- 🧰 Exploring **Database System** and **How Game Works**  
+- 🎯 Goal: Build Game and Chess Database
+- ⚡ Fun fact: I have very clean code (i swear) & dark themes 🖤  
 - ♟️ Hobby : I love Chess, and Writing
 ---
 
@@ -42,4 +42,4 @@
 
 ---
 
-<p align="center">✨ “Chess. Learn. Code. Game. Write. Repeat.” ✨</p>
+<p align="center">✨ “I don't have any teams, but self-programming is very good” ✨</p>
