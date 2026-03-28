@@ -4,7 +4,7 @@
 
 <!-- Banner (optional) -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Chess_pieces_close_up.jpg/1280px-Chess_pieces_close_up.jpg" alt="Chess"/>
+  <img width="1267" height="713" alt="Estuaty Interactive" src="https://github.com/user-attachments/assets/be3083d1-6ba8-417d-b68c-c7df4f99e1e8" />
 </p>
 
 ---
