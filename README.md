@@ -41,7 +41,7 @@
 </p>
 <p align="left">
   <a href="https://smartfield45.itch.io">
-    <img src="https://shields.io" alt="My Itch.io Profile">
+    <img src="https://img.shields.io/badge/itch.io-%23FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="My Itch.io Profile">
   </a>
 </p>
 ---
