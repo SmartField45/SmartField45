@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm SmartField45</h1>
-<h3 align="center">💻 Game Developer | ☁️ Exploring Game Development</h3>
+<h1 align="center">Hi, I'm SmartField45</h1>
+<h3 align="center">Game Developer | Exploring Godot, Python</h3>
 
 <!-- Banner (optional) -->
 <p align="center">
@@ -10,12 +10,12 @@
 ---
 
 ### 🧭 About Me  
-- 🌱 I’m currently learning **Python, C# and JavaScript**
-- 🎮 Learning and Exploring **Godot Engine**
-- 🧰 Exploring **Database System** and **How Game Works**  
-- 🎯 Goal: Build Game and Chess Database
-- ⚡ Fun fact: I have very clean code (i swear) & dark themes 🖤  
-- ♟️ Hobby : I love Chess, and Writing
+1. I’m currently learning **Python, GDScript, C#, and a bit C++, Assembly**
+2. Learning and Exploring **Godot Engine**
+3. Exploring **Database System** and **How Game Works**  
+4. Goal: Build Game and Chess Database
+5. Fun fact: I have very clean code (i swear) & dark themes 🖤  
+6. Hobby : I love Chess, and Writing
 ---
 
 ### 🛠️ Tech Stack  
@@ -35,11 +35,15 @@
 
 ### 🤝 Connect With Me  
 <p align="left">
-  <a href="mailto:LadenTurnover12@gmail.com" target="_blank">
+  <a href="mailto:ladenturnover12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
+<p align="left">
+  <a href="https://smartfield45.itch.io">
+    <img src="https://shields.io" alt="My Itch.io Profile">
+  </a>
+</p>
 ---
 
-<p align="center">✨ “I don't have any teams, but self-programming is very good” ✨</p>
+<p align="center">&copy; 2026 Estuary Interactive. All right reserved</p>
