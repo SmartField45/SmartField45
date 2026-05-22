@@ -20,7 +20,7 @@
 
 ### 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c%23,gdscript,git,github,c,html,css,js,vscode,godot" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,c,html,css,js,vscode,godot" />
 </p>
 
 ---
@@ -28,7 +28,8 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SmartField45&show_icons=true&theme=tokyonight" alt="SmartField45 stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartField45&layout=compact&theme=tokyonight" alt="Top Langs"/>\</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartField45&layout=compact&theme=tokyonight" alt="Top Langs"/>
+</p>
 
 ---
 
@@ -36,7 +37,7 @@
 
 <p align="center">
   <a href="https://smartfield45.itch.io/echoes-of-ashes" target="_blank">
-    <img width="1107" height="848" alt="image_2026-05-22_133347240" src="https://github.com/user-attachments/assets/6d2d39ee-5d8b-4a5e-a9e2-b65f4efe85e8" />
+    <img width="640" height="490" alt="image_2026-05-22_133347240" src="https://github.com/user-attachments/assets/6d2d39ee-5d8b-4a5e-a9e2-b65f4efe85e8" />
   </a>
 </p>
 
