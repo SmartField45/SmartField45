@@ -27,10 +27,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://shion.dev" alt="SmartField45 stats"/>
-  <img src="https://shion.dev" alt="Top Langs"/>
-</p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SmartField45&show_icons=true&theme=tokyonight" alt="SmartField45 stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartField45&layout=compact&theme=tokyonight" alt="Top Langs"/>\</p>
 
 ---
 
