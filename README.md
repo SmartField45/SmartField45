@@ -39,6 +39,11 @@
   <a href="https://smartfield45.itch.io/echoes-of-ashes" target="_blank">
     <img width="640" height="490" alt="image_2026-05-22_133347240" src="https://github.com/user-attachments/assets/6d2d39ee-5d8b-4a5e-a9e2-b65f4efe85e8" />
   </a>
+  <a href="https://github.com/SmartField45/Ciptacode-Chess-Tournament" target=_blank>
+    <img width="256" height="256" alt="Ciptacode Chess Database Logo" src="https://github.com/user-attachments/assets/ea3ad73f-344a-44f7-8c30-74bf5f3d3476" />
+
+
+  </a>
 </p>
 
 ---
