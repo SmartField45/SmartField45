@@ -45,6 +45,9 @@
   <a href="https://simulatoredukasihukum.netlify.app" target=_blank>
     <img width="256" height="256" alt="GameInfo_004" src="https://github.com/user-attachments/assets/2eaf4984-ea5f-43f8-8a81-3cf0b42aa181" />
   </a>
+  <a href="https://ciptacode-qr.streamlit.app" target=_blank>
+    <img width="256" height="256" alt="CiptacodeQRCodeGenerator" src="https://github.com/user-attachments/assets/4158a919-bd4f-427c-8e21-90fe9c8ce592" />
+  </a>
 </p>
 
 ---
