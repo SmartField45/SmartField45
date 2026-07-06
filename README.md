@@ -48,6 +48,9 @@
   <a href="https://ciptacode-qr.streamlit.app" target=_blank>
     <img width="256" height="256" alt="CiptacodeQRCodeGenerator" src="https://github.com/user-attachments/assets/4158a919-bd4f-427c-8e21-90fe9c8ce592" />
   </a>
+  <a href="https://github.com/SmartField45/Ciptacode-Video-Downloader" target=_blank>
+    <img width="256" height="256" alt="logo256x256" src="https://github.com/user-attachments/assets/4772c3b3-3a74-4a21-a2bb-109d44b67e28" />
+  </a>
 </p>
 
 ---
