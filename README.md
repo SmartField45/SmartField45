@@ -95,7 +95,7 @@ Hello, I am a student from Indonesia who focuses on indie game development and o
           <img width="128" height="128" alt="SADAR" src="https://github.com/user-attachments/assets/0f676d32-005b-4531-a69b-80d2b08db2e4" />
         </a>
       </p>
-      <p>
+      <p align="center">
         <a href="https://smartfield45.itch.io/sadar">
           <img src="https://img.shields.io/badge/itch.io-SADAR-FA5C5C?style=flat&logo=itch.io&logoColor=white" alt="SADAR" />
         </a><br>
