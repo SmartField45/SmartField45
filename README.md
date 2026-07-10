@@ -1,3 +1,4 @@
+<!-- Header -->
 <h1 align="center">Muhammad Hani Ilma Alfarabi | SmartField45</h1>
 <h3 align="center">Founder of Estuary Interactive & Ciptacode Projects | Indie Game Developer & Software Engineer</h3>
 
@@ -81,13 +82,13 @@ Hello, I am a student from Indonesia who focuses on indie game development and o
           <img width="128" height="128" alt="Echoes of Ashes" src="https://github.com/user-attachments/assets/eb92a6c2-b81d-4817-a80a-edb321deea5b" />
         </a>
       </p>
-      <p>
+      <p align="center">
         <a href="https://smartfield45.itch.io/echoes-of-ashes">
           <img src="https://img.shields.io/badge/itch.io-Echoes_of_Ashes-FA5C5C?style=flat&logo=itch.io&logoColor=white" alt="Echoes of Ashes" />
         </a><br>
         <b>Echoes of Ashes</b> is an RPG project built on Godot Engine exploring state machines and narrative systems.
       </p>
-      <hr>
+      <br><br>
       <!-- SADAR -->
       <p align="center">
         <a href="https://simulatoredukasihukum.netlify.app" target="_blank">
@@ -96,7 +97,7 @@ Hello, I am a student from Indonesia who focuses on indie game development and o
       </p>
       <p>
         <a href="https://smartfield45.itch.io/sadar">
-          <img src="https://img.shields.io/badge/itch.io-SADAR-FA5C5C?style=flat&logo=itch.io&logoColor=white" alt="Echoes of Ashes" />
+          <img src="https://img.shields.io/badge/itch.io-SADAR-FA5C5C?style=flat&logo=itch.io&logoColor=white" alt="SADAR" />
         </a><br>
        <b>SADAR</b> is an educational legal simulation game developed for the Duta Pelajar Sadar Hukum competition.
       </p>
@@ -111,36 +112,36 @@ Hello, I am a student from Indonesia who focuses on indie game development and o
           <img width="128" height="128" alt="Ciptacode Chess Tournament Manager" src="https://github.com/user-attachments/assets/c47ee3fe-c799-4c5a-9a66-4ff8a7e544d9" />
         </a>
       </p>
-      <p>
+      <p align="center">
         <a href="https://github.com/SmartField45/Ciptacode-Chess-Tournament">
         <img src="https://img.shields.io/badge/GitHub-Chess_Tournament_Manager-black?style=flat&logo=github" alt="Ciptacode Chess Tournament Logo"/>
         </a><br>
         <b>Ciptacode Chess Tournament</b> is a database and software for chess tournament pairings.
       </p>
-      <hr>
+      <br><br>
       <!-- Ciptacode QR Generator -->
       <p align="center">
         <a href="https://ciptacodeprojects.netlify.app/project.html?id=qrcode" target="_blank">
           <img width="128" height="128" alt="Ciptacode QR Generator" src="https://github.com/user-attachments/assets/405ca3a9-8249-46d0-97cf-2de2c93a85a5" />
         </a>
       </p>
-      <p>
+      <p align="center">
         <a href="https://ciptacode-qr.streamlit.app"><img src="https://img.shields.io/badge/Streamlit-QR_Generator-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Ciptacode QR Generator Logo" />
         </a><br>
         <b>Ciptacode QR Generator</b> is a lightweight Python-powered QR generation tool deployed using Streamlit and Flet.
-      </p>
-      <hr>
+      </p>  
+      <br><br>
       <!-- Ciptacode Video Downloader -->
       <p align="center">
         <a href="https://ciptacodeprojects.netlify.app/project.html?id=ytdownloader" target="_blank">
           <img width="128" height="128" alt="Ciptacode Video Downloader" src="https://github.com/user-attachments/assets/6727e457-84f2-479c-b7f4-56b267b1358e" />
         </a>
       </p>
-      <p>
+      <p align="center">
         <a href="https://github.com/SmartField45/Ciptacode-Video-Downloader">
         <img src="https://img.shields.io/badge/GitHub-Youtube_Video_Downloader-black?style=flat&logo=github" alt="Ciptacode Video Downloader Logo"/>
         </a><br>
-        <b>Ciptacode Video Downloader</b> is A clean utility app designed for youtube downloading. No Ads, Free and Fast.
+        <b>Ciptacode Video Downloader</b> is a clean utility app designed for youtube downloading. No Ads, Free and Fast.
       </p>
     </td>
   </tr>
@@ -153,8 +154,7 @@ Hello, I am a student from Indonesia who focuses on indie game development and o
   <a href="mailto:ladenturnover12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-ladenturnover12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-<p align="left>
+  <br>
   <a href="https://smartfield45.itch.io" target="_blank">
     <img src="https://img.shields.io/badge/itch.io-Estuary_Interactive-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/>
   </a>
